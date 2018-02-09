@@ -1,2 +1,2 @@
-# Mulesoft-Weekly-Training-Prgram
+# Mulesoft-Weekly-Training-Program
 Weekly Learning Repository
